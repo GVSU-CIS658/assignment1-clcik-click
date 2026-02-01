@@ -14,6 +14,7 @@
   --background: #f2f5f9;
   --surface: rgba(255, 255, 255, 0.75);
 
+  /* Pastel Dreams */
   --icy-blue: #a9def9;
   --baby-pink: #ff99c8;
   --forsted-mint: #d0f4de;
@@ -27,7 +28,7 @@
   --ink: #0f172a;
   --link: #007aff;
 
-  /* Shadow */
+  /* Shadow  css scan #0 */
   --shadow:
     rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
